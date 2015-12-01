@@ -79,3 +79,5 @@ band << "-182"
 band
 # => "Blink-182"
 ```
+
+<a href='https://learn.co/lessons/string-concatenation-readme' data-visibility='hidden'>Learn.co resource</a>
